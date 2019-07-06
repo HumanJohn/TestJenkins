@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloWordController {
 	@RequestMapping("/ali")
 	public String index() {
-		return "hello jenkins";
+		return "hello jenkins of 2";
 	}
 }
