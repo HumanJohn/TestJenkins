@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloWordController {
 	@RequestMapping("/ali")
 	public String index() {
-		return "hello jenkins!测试部署";
+		return "测试删除，重新部署";
 	}
 }
