@@ -28,6 +28,6 @@
 	</dependencies>
 	
 	<build>
-        <finalName>sdfhjkl</finalName>
+        <finalName>testAli</finalName>
     </build>
 </project>
