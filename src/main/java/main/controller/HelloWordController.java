@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloWordController {
 	@RequestMapping("/ali")
 	public String index() {
-		return "tomcat合二为一";
+		return "tomcat合二为一8080";
 	}
 }
