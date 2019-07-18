@@ -16,4 +16,6 @@ public class HelloWordController {
 	public String yaoyiyao() {
 		return "tomcat合二为一8080";
 	}
+	
+	
 }
