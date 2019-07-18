@@ -11,4 +11,9 @@ public class HelloWordController {
 	public String index() {
 		return "tomcat合二为一8080";
 	}
+	
+	@RequestMapping("/yaoyiyao")
+	public String yaoyiyao() {
+		return "tomcat合二为一8080";
+	}
 }
